@@ -6,3 +6,4 @@ Internal and external IP Addresses explained - http://www.steves-internet-guide.
 Difference between public and private IP address-https://www.lifewire.com/what-is-a-public-ip-address-2625974
 What is port forwarding and how it works? https://superuser.com/questions/284051/what-is-port-forwarding-and-what-is-it-used-for
 port forwarding for web sites https://www.youtube.com/watch?v=2G1ueMDgwxw
+Difference between subnet and vlan https://networkengineering.stackexchange.com/questions/1029/difference-between-subnet-and-vlan
