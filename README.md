@@ -7,3 +7,4 @@ Difference between public and private IP address-https://www.lifewire.com/what-i
 What is port forwarding and how it works? https://superuser.com/questions/284051/what-is-port-forwarding-and-what-is-it-used-for
 port forwarding for web sites https://www.youtube.com/watch?v=2G1ueMDgwxw
 Difference between subnet and vlan https://networkengineering.stackexchange.com/questions/1029/difference-between-subnet-and-vlan
+Difference between Proxy server and VPN https://www.howtogeek.com/247190/whats-the-difference-between-a-vpn-and-a-proxy/
