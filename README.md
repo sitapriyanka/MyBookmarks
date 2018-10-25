@@ -9,3 +9,4 @@ port forwarding for web sites https://www.youtube.com/watch?v=2G1ueMDgwxw
 Difference between subnet and vlan https://networkengineering.stackexchange.com/questions/1029/difference-between-subnet-and-vlan
 Difference between Proxy server and VPN https://www.howtogeek.com/247190/whats-the-difference-between-a-vpn-and-a-proxy/
 AWS VPC-https://www.youtube.com/watch?v=tD9vDv0uyI8
+AWS practice test-https://learning.whizlabs.com/course/view.php?id=218
