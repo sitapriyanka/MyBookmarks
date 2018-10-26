@@ -10,3 +10,4 @@ Difference between subnet and vlan https://networkengineering.stackexchange.com/
 Difference between Proxy server and VPN https://www.howtogeek.com/247190/whats-the-difference-between-a-vpn-and-a-proxy/
 AWS VPC-https://www.youtube.com/watch?v=tD9vDv0uyI8
 AWS practice test-https://learning.whizlabs.com/course/view.php?id=218
+AWS rules-https://www.youtube.com/watch?v=ywHFXfuJoSU&list=PLTyrc6mz8dg8YE7OpHYoaRILnf1RQM8bz
