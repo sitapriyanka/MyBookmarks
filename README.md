@@ -12,3 +12,4 @@ AWS VPC-https://www.youtube.com/watch?v=tD9vDv0uyI8
 AWS practice test-https://learning.whizlabs.com/course/view.php?id=218
 AWS rules-https://www.youtube.com/watch?v=ywHFXfuJoSU&list=PLTyrc6mz8dg8YE7OpHYoaRILnf1RQM8bz
 Application Load balancer and Network load balancer https://medium.com/containers-on-aws/using-aws-application-load-balancer-and-network-load-balancer-with-ec2-container-service-d0cb0b1d5ae5
+Load balancing types https://www.youtube.com/watch?v=7LMaAVwZE2c
