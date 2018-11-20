@@ -16,3 +16,4 @@ Load balancing types https://www.youtube.com/watch?v=7LMaAVwZE2c
 Chaos engineering https://www.youtube.com/watch?v=3CNNhK9JTDk
 How netflix works https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b
 HardWare and software load balancing types https://www.thegeekstuff.com/2016/01/load-balancer-intro/
+amazon cloudwatch alarm and cloudwatch event difference - https://linuxacademy.com/community/posts/show/topic/19561-alarm-vs-event
